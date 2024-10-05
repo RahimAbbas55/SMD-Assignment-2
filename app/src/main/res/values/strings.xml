@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="logo_description">ToDo Application</string>
+    <string name="task_placeholder">Task Item</string>
+    <string name="task_detail_placeholder">Task Detail</string>
+    <string name="task_title_placeholder">Task Title:</string>
+    <string name="task_description_placeholder">Task Description:</string>
+    <string name="taskadd">Add Task</string>
+    <string name="cancel">Cancel</string>
+    <string name="addInstruction">Press + to add new tasks!</string>
+</resources>
